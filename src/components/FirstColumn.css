@@ -1,0 +1,9 @@
+#first-col {
+  min-width: 200px;
+  height: 100%;
+  border: 1px solid black;
+}
+
+#first-col input {
+  position: absolute;
+}
