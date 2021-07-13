@@ -1,0 +1,9 @@
+#last-col {
+  min-width: 300px;
+  height: 100%;
+  border: 1px solid black;
+}
+
+#show-result {
+  position: relative;
+}
