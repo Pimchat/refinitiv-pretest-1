@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #middle-col {
   width: 100%;
   min-width: 100px;
@@ -8,3 +9,11 @@
 #drop-down {
   position: relative;
 }
+=======
+#middle-col {
+  width: 100%;
+  min-width: 100px;
+  height: 100%;
+  border: 1px solid black;
+}
+>>>>>>> 4de6b1f4cc2757b5b90f0a0d2be3a05123ad83d7
